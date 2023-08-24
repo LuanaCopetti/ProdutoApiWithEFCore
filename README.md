@@ -6,6 +6,6 @@ Exercício 2
 
 Executando
 ----------------------------------------
-Entre no diretório Produtos.Data e execute o comando dotnet ef database update para criar o banco de dados.
-Abra o arquivo ProdutoApiWithEFCore.sln no Visual Studio 2022.
-Execute o projeto Produtos.Api.
+-Entre no diretório Produtos.Data e execute o comando dotnet ef database update para criar o banco de dados.
+-Abra o arquivo ProdutoApiWithEFCore.sln no Visual Studio 2022.
+-Execute o projeto Produtos.Api.
