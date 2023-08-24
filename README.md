@@ -1,7 +1,8 @@
 # ProdutoApiWithEFCore
 Exercício 2
+----------------------------------------------------------
 É uma API simples que permite a criação, consulta, atualização e exclusão de produtos. Utiliza persistência em banco de dados, utilizando Entity Framework Core e SQLite.
-----------------------------------------------
+
 
 Executando
 ----------------------------------------
